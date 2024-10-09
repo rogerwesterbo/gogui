@@ -20,4 +20,7 @@ go run cmd/gui/main.go
 
 # Inspiration:
 
+App using Gio
 https://github.com/chapar-rest/chapar/
+
+Golang gui framework reviews: https://blog.logrocket.com/best-gui-frameworks-go/
